@@ -1,0 +1,23 @@
+{
+    "Shriram Finance Limited": {
+      "1 year": 0.75,
+      "2 years": 1.00,
+      "3 years": 2.00,
+      "42 months": 1.50,
+      "50 months": 2.20,
+      "5 years": 2.30
+    },
+    "Bajaj Finance Limited": {
+      "12 to 23 months": {
+        "up_to_2.5_cr": 0.55,
+        "2.5_to_5_cr": 0.70,
+        ">5_cr": 0.75
+      },
+      "24 to 35 months": {
+        "up_to_2.5_cr": 0.80,
+        "2.5_to_5_cr": 0.90,
+        ">5_cr": 0.95
+      }
+    }
+  }
+  
